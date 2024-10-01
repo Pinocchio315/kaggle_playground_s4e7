@@ -1,0 +1,116 @@
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.8771414	best: 0.8771414 (0)	total: 872ms	remaining: 36m 18s
+500:	test: 0.9193795	best: 0.9193795 (500)	total: 6m 33s	remaining: 26m 8s
+1000:	test: 0.9230688	best: 0.9230688 (1000)	total: 12m 54s	remaining: 19m 19s
+1500:	test: 0.9240901	best: 0.9240901 (1500)	total: 19m 12s	remaining: 12m 47s
+2000:	test: 0.9253224	best: 0.9253224 (2000)	total: 25m 36s	remaining: 6m 23s
+2499:	test: 0.9258324	best: 0.9258500 (2480)	total: 31m 59s	remaining: 0us
+bestTest = 0.9258499742
+bestIteration = 2480
+Shrink model to first 2481 iterations.
+Fold 1 finished.
+0:	test: 0.8777261	best: 0.8777261 (0)	total: 811ms	remaining: 33m 46s
+500:	test: 0.9200408	best: 0.9200408 (500)	total: 6m 30s	remaining: 25m 56s
+1000:	test: 0.9240857	best: 0.9240857 (1000)	total: 12m 50s	remaining: 19m 13s
+1500:	test: 0.9252390	best: 0.9252390 (1500)	total: 19m 9s	remaining: 12m 45s
+2000:	test: 0.9259628	best: 0.9259633 (1999)	total: 25m 29s	remaining: 6m 21s
+2499:	test: 0.9263208	best: 0.9263208 (2499)	total: 31m 50s	remaining: 0us
+bestTest = 0.9263207912
+bestIteration = 2499
+Fold 2 finished.
+0:	test: 0.8778075	best: 0.8778075 (0)	total: 812ms	remaining: 33m 48s
+500:	test: 0.9201511	best: 0.9201521 (499)	total: 6m 31s	remaining: 26m 1s
+1000:	test: 0.9232169	best: 0.9232196 (995)	total: 12m 53s	remaining: 19m 18s
+1500:	test: 0.9247774	best: 0.9247774 (1500)	total: 19m 12s	remaining: 12m 46s
+2000:	test: 0.9257619	best: 0.9257624 (1999)	total: 25m 33s	remaining: 6m 22s
+2499:	test: 0.9261187	best: 0.9261187 (2499)	total: 31m 56s	remaining: 0us
+bestTest = 0.9261186719
+bestIteration = 2499
+Fold 3 finished.
+0:	test: 0.8777003	best: 0.8777003 (0)	total: 810ms	remaining: 33m 43s
+500:	test: 0.9198378	best: 0.9198378 (500)	total: 6m 33s	remaining: 26m 9s
+1000:	test: 0.9232388	best: 0.9232405 (995)	total: 12m 52s	remaining: 19m 16s
+1500:	test: 0.9245000	best: 0.9245000 (1499)	total: 19m 11s	remaining: 12m 46s
+2000:	test: 0.9256232	best: 0.9256232 (2000)	total: 25m 33s	remaining: 6m 22s
+2499:	test: 0.9263501	best: 0.9263540 (2486)	total: 31m 53s	remaining: 0us
+bestTest = 0.926353991
+bestIteration = 2486
+Shrink model to first 2487 iterations.
+Fold 4 finished.
+0:	test: 0.8778905	best: 0.8778905 (0)	total: 813ms	remaining: 33m 52s
+500:	test: 0.9202948	best: 0.9202955 (499)	total: 6m 32s	remaining: 26m 6s
+1000:	test: 0.9232746	best: 0.9232781 (995)	total: 12m 52s	remaining: 19m 16s
+1500:	test: 0.9249630	best: 0.9249630 (1500)	total: 19m 15s	remaining: 12m 49s
+2000:	test: 0.9258510	best: 0.9258516 (1999)	total: 25m 37s	remaining: 6m 23s
+2499:	test: 0.9264175	best: 0.9264175 (2499)	total: 31m 58s	remaining: 0us
+bestTest = 0.92641747
+bestIteration = 2499
+Fold 5 finished.
+0:	test: 0.8780569	best: 0.8780569 (0)	total: 807ms	remaining: 33m 36s
+500:	test: 0.9202572	best: 0.9202572 (500)	total: 6m 31s	remaining: 26m 3s
+1000:	test: 0.9239546	best: 0.9239546 (1000)	total: 12m 53s	remaining: 19m 17s
+1500:	test: 0.9247779	best: 0.9247779 (1500)	total: 19m 13s	remaining: 12m 47s
+2000:	test: 0.9256712	best: 0.9256762 (1996)	total: 25m 32s	remaining: 6m 22s
+2499:	test: 0.9260259	best: 0.9260259 (2499)	total: 31m 52s	remaining: 0us
+bestTest = 0.9260258675
+bestIteration = 2499
+Fold 6 finished.
+0:	test: 0.8788738	best: 0.8788738 (0)	total: 753ms	remaining: 31m 21s
+500:	test: 0.9205233	best: 0.9205233 (500)	total: 6m 20s	remaining: 25m 19s
+1000:	test: 0.9234141	best: 0.9234141 (1000)	total: 12m 37s	remaining: 18m 55s
+1500:	test: 0.9243017	best: 0.9243017 (1500)	total: 18m 52s	remaining: 12m 33s
+2000:	test: 0.9259326	best: 0.9259335 (1998)	total: 25m 14s	remaining: 6m 17s
+2499:	test: 0.9264574	best: 0.9264594 (2488)	total: 31m 33s	remaining: 0us
+bestTest = 0.926459372
+bestIteration = 2488
+Shrink model to first 2489 iterations.
+Fold 1 finished.
+0:	test: 0.8795215	best: 0.8795215 (0)	total: 754ms	remaining: 31m 23s
+500:	test: 0.9212208	best: 0.9212208 (500)	total: 6m 21s	remaining: 25m 22s
+1000:	test: 0.9238281	best: 0.9238281 (1000)	total: 12m 38s	remaining: 18m 56s
+1500:	test: 0.9253030	best: 0.9253030 (1500)	total: 18m 53s	remaining: 12m 34s
+2000:	test: 0.9260297	best: 0.9260303 (1999)	total: 25m 15s	remaining: 6m 17s
+2499:	test: 0.9266013	best: 0.9266256 (2487)	total: 31m 32s	remaining: 0us
+bestTest = 0.9266256094
+bestIteration = 2487
+Shrink model to first 2488 iterations.
+Fold 2 finished.
+0:	test: 0.8792805	best: 0.8792805 (0)	total: 757ms	remaining: 31m 30s
+500:	test: 0.9197626	best: 0.9197628 (499)	total: 6m 20s	remaining: 25m 18s
+1000:	test: 0.9231947	best: 0.9231947 (1000)	total: 12m 36s	remaining: 18m 53s
+1500:	test: 0.9247643	best: 0.9247643 (1500)	total: 18m 55s	remaining: 12m 35s
+2000:	test: 0.9258787	best: 0.9258791 (1999)	total: 25m 15s	remaining: 6m 17s
+2499:	test: 0.9267089	best: 0.9267320 (2488)	total: 31m 33s	remaining: 0us
+bestTest = 0.9267320037
+bestIteration = 2488
+Shrink model to first 2489 iterations.
+Fold 3 finished.
+0:	test: 0.8796229	best: 0.8796229 (0)	total: 755ms	remaining: 31m 25s
+500:	test: 0.9222139	best: 0.9222139 (500)	total: 6m 25s	remaining: 25m 36s
+1000:	test: 0.9248323	best: 0.9248323 (1000)	total: 12m 41s	remaining: 18m 59s
+1500:	test: 0.9258277	best: 0.9258277 (1500)	total: 18m 59s	remaining: 12m 38s
+2000:	test: 0.9269967	best: 0.9269973 (1999)	total: 25m 17s	remaining: 6m 18s
+2499:	test: 0.9272960	best: 0.9272960 (2499)	total: 31m 34s	remaining: 0us
+bestTest = 0.9272960424
+bestIteration = 2499
+Fold 4 finished.
+0:	test: 0.8795352	best: 0.8795352 (0)	total: 757ms	remaining: 31m 32s
+500:	test: 0.9207356	best: 0.9207356 (500)	total: 6m 19s	remaining: 25m 14s
+1000:	test: 0.9238526	best: 0.9238526 (1000)	total: 12m 36s	remaining: 18m 52s
+1500:	test: 0.9252472	best: 0.9252472 (1500)	total: 18m 55s	remaining: 12m 35s
+2000:	test: 0.9264448	best: 0.9264458 (1999)	total: 25m 13s	remaining: 6m 17s
+2499:	test: 0.9268321	best: 0.9268321 (2498)	total: 31m 35s	remaining: 0us
+bestTest = 0.9268321395
+bestIteration = 2498
+Shrink model to first 2499 iterations.
+Fold 5 finished.
